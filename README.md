@@ -27,8 +27,6 @@ AI-CHATBOT-TERMINAL/
 ├── .gitignore
 └── README.md
 
----
-
 
 # 🌐 GitHub Upload Steps
 
